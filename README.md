@@ -1,6 +1,6 @@
 # 项目名称
 ## 目录
-[toc]
+[TOC]
 ## 项目介绍
 ## 使用技术
 ## 快速上手
@@ -21,7 +21,7 @@ https://a.b.com http://localhost: 80
 ## 分支管理
 主要分支：
 | 分支    |     环境 |
-| ------- | -------: |
+| ------- | ------- |
 | develop | 开发环境 |
 | test    | 测试环境 |
 | master  | 正式环境 |
@@ -55,7 +55,12 @@ https://a.b.com http://localhost: 80
     └─views   // 所有页面文件
 ```
 ## 如何部署
+使用蓝盾+TKE进行部署
+流水线地址：https://
 ## 代码规范
+使用 @tencent/eslint-config-tencent 进行代码规范检测
 ## 接口文档
+接口文档地址: https://abc
 ## 注意事项
-## 项目接口人
+
+
